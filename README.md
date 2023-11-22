@@ -1,4 +1,4 @@
-•  **File Management System**
+# File Management System
 -  This Python script provides a simple file management system that interacts with a MySQL database to perform basic file management tasks. 
 -  It allows users to perform operations such as accepting file information, searching for files, updating file information, deleting files, and displaying all files in the database.
 
